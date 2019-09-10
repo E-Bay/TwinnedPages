@@ -1,4 +1,14 @@
 body
 {
-    color:blue;
+    background-image: url(/imgs/pumpkin.jpg);
+    background-color:black;
+    color:white;
+    font-size: 200%; 
+}
+a:hover
+{
+    background-color:burlywood; 
+}
+a{
+    color:floralwhite;
 }
