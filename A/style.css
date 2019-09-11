@@ -3,11 +3,11 @@ body
     background-image: url(/imgs/Rainbow.Donut.png);
     background-color: lightgoldenrodyellow;
     font-size: 200%;
-    font-style: normal;
-    font-style: normal;
+    font-style: italic;
 }
-a {
-    color: darkgoldenrod
+a 
+{
+    color: gray;
 }
 a:hover 
 {
